@@ -1,0 +1,65 @@
+/* Home CSS */
+.page {
+  display: flex;
+  width: 100vw;
+  height: 70vh;
+  justify-content: center;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  font-size: 40px;
+}
+.home {
+  margin-top: 0;
+  width: 45vw;
+}
+
+.energy {
+  margin: 50px;
+  padding: 30px;
+  text-align: center;
+}
+.energy p {
+  font-size: 20px;
+}
+
+.but {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.click {
+  padding: 20px;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  background-color: #1fa41f;
+  color: #fff;
+  cursor: pointer;
+}
+
+.click:hover {
+  background-color: #9af065;
+  color: #000;
+  transition: transform 0.3s;
+  transform: scale(1.2);
+}
+
+.pic {
+  margin: 20px;
+  overflow: hidden; /* Hide overflowing part of the image */
+  display: inline-block; /* Make the container fit the image */
+}
+.pic img {
+  width: 700px;
+  height: 700px;
+}
+.image {
+  transition: transform 0.3s; /* Add a smooth transition effect */
+}
+.image:hover {
+  transform: scale(1.1); /* Scale the image slightly on hover */
+}

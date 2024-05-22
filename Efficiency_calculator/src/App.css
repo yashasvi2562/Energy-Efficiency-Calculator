@@ -1,0 +1,19 @@
+#root {
+  margin: 0;
+  overflow: hidden;
+}
+body {
+  display: flex;
+  /* justify-content: center; */
+  background: linear-gradient(to right, #34db8a, #9db651);
+}
+
+.equipment {
+  margin-bottom: 20px;
+}
+
+
+.modal {
+  background-color: #fff;
+  color: #010;
+}
