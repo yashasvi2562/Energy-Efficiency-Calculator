@@ -20,8 +20,8 @@
 }
 .calculator-one {
   overflow: scroll;
-  height: 85vh;
-  width: 50%;
+  height: 80vh;
+  width: 45%;
   padding: 60px;
   border: 1px solid #ccc;
   border-radius: 10px;
@@ -43,8 +43,8 @@
   font-size: 20px;
 }
 .equipment {
-  padding: 6px;
-  margin: 7px;
+  padding: 10px;
+  margin: 10px;
   border-radius: 10px;
   border: 2px solid #3434;
 }
@@ -55,8 +55,8 @@ label {
 }
 .calculator-two {
   overflow: scroll;
-  height: 85vh;
-  width: 50%;
+  height: 80vh;
+  width: 45%;
   padding: 60px;
   border: 1px solid #ccc;
   border-radius: 10px;

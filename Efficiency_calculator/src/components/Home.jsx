@@ -26,7 +26,7 @@ function Home() {
             <div className="energy">
               <p>
                 <h3>
-                  Get to know the energy consumed and the energy-efficiency of
+                  Get to know the energy consumed and the energy efficiency of
                   your home appliances.
                 </h3>
               </p>

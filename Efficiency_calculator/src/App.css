@@ -1,17 +1,12 @@
 #root {
   margin: 0;
-  overflow: hidden;
+  overflow: scroll;
 }
 body {
   display: flex;
-  /* justify-content: center; */
+  justify-content: center;
   background: linear-gradient(to right, #34db8a, #9db651);
 }
-
-.equipment {
-  margin-bottom: 20px;
-}
-
 
 .modal {
   background-color: #fff;
